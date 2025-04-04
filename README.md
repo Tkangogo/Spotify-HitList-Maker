@@ -1,8 +1,7 @@
 # Spotify-HitList-Maker
 
 ## Overview
-This Python program creates a Spotify playlist based on the Billboard Hot 100 chart for a user-specified date. It scrapes song data from Billboard's website, searches for the songs on Spotify, and compiles them into a new playlist in the user's Spotify account.
-
+The Spotify Playlist Creator from Billboard Data is a Python program that allows users to generate a Spotify playlist based on the Billboard Hot 100 chart from any given date. By inputting a specific date in the format YYYY-MM-DD, the program scrapes song and artist data from the Billboard website and then searches for those tracks on Spotify. The identified songs are compiled into a private Spotify playlist.
 ## Features
 - Scrapes the **Billboard Hot 100** chart for a given date.
 - Searches for the scraped songs on **Spotify**.
